@@ -1,9 +1,9 @@
-package consumer;
+package collection.queue;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
 
-public class ProducerConsumerRunner {
+public class ArrayBlockingQueueRunner {
 		
 	private static BlockingQueue<Integer> blockingQueue = new ArrayBlockingQueue<>(10);
 

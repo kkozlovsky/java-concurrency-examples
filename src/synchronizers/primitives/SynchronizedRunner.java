@@ -1,4 +1,4 @@
-package primitives.synch;
+package synchronizers.primitives;
 
 public class SynchronizedRunner {
 	

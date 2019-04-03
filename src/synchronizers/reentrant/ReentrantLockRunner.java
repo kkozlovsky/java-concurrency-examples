@@ -1,4 +1,4 @@
-package reentrant;
+package synchronizers.reentrant;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
